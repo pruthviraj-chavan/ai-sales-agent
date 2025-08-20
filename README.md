@@ -1,4 +1,4 @@
-by me
+by me ...
 <!--
 Title: AI Sales Agent for Computer Equipment Ecommerce | Automated Customer Engagement & Sales
 Description: Enhance your computer equipment Ecommerce with an AI sales agent. Automate customer engagement, product recommendations, consultation scheduling, and Stripe payment facilitation.
